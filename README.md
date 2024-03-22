@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently looking for an **End of Studies Internship**
+- 🚗 I’m currently doing an intenship at **BMW**
 
 - 🌱 I’m currently learning **langchain**
 
