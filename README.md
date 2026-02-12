@@ -3,9 +3,9 @@
 
 
 
-- 🚗 I’m currently doing an intenship at **BMW**
+-  Currently AI Engineer at **CNEXT**
 
-- 🌱 I’m currently learning **langchain**
+- 🚗 Previous intenship as AI Engineer at **BMW**
 
 - 👯 I’m looking to collaborate on **Projects or Articles**
 
